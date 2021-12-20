@@ -8,5 +8,7 @@ public class Node {
 	public Node(int i) {
 		value = i;
 	}
-	
+
 }
+
+//Uzywanie kombinacji alt+strzałki przełączają między otwartymi plikami w ECLIPSE IDE

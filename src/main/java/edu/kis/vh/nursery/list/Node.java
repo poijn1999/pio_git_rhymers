@@ -10,3 +10,5 @@ public class Node {
 	}
 
 }
+
+//Uzywanie kombinacji alt+strzałki przełączają między otwartymi plikami w ECLIPSE IDE

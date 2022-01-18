@@ -8,11 +8,7 @@ class IntLinkedList { //5
 	int getI() {
 		return i;
 	}
-
-	void setI(int i) {
-		this.i = i;
-	}
-
+	
 	public void push(int i) {
 		if (last == null)
 			last = new Node(i);

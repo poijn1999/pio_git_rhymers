@@ -1,8 +1,8 @@
 package edu.kis.vh.nursery.list;
 
-public class IntLinkedList {
+class IntLinkedList { //5
 
-	Node last;
+	private Node last; //6
 	int i;
 
 	public void push(int i) {
@@ -15,7 +15,7 @@ public class IntLinkedList {
 		}
 	}
 
-	public boolean isEmpty() {
+	private boolean isEmpty() {//7
 		return last == null;
 	}
 
